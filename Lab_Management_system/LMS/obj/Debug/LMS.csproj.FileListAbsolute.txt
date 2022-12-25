@@ -1,0 +1,17 @@
+C:\Users\Thilaga\Documents\Visual Studio 2015\Projects\LMS\LMS\bin\Debug\LMS.exe.config
+C:\Users\Thilaga\Documents\Visual Studio 2015\Projects\LMS\LMS\bin\Debug\LMS.exe
+C:\Users\Thilaga\Documents\Visual Studio 2015\Projects\LMS\LMS\bin\Debug\LMS.pdb
+C:\Users\Thilaga\Documents\Visual Studio 2015\Projects\LMS\LMS\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Thilaga\Documents\Visual Studio 2015\Projects\LMS\LMS\bin\Debug\Guna.UI2.dll
+C:\Users\Thilaga\Documents\Visual Studio 2015\Projects\LMS\LMS\obj\Debug\LMS.csprojResolveAssemblyReference.cache
+C:\Users\Thilaga\Documents\Visual Studio 2015\Projects\LMS\LMS\obj\Debug\LMS.page1.resources
+C:\Users\Thilaga\Documents\Visual Studio 2015\Projects\LMS\LMS\obj\Debug\LMS.Form2.resources
+C:\Users\Thilaga\Documents\Visual Studio 2015\Projects\LMS\LMS\obj\Debug\LMS.Properties.Resources.resources
+C:\Users\Thilaga\Documents\Visual Studio 2015\Projects\LMS\LMS\obj\Debug\LMS.csproj.GenerateResource.Cache
+C:\Users\Thilaga\Documents\Visual Studio 2015\Projects\LMS\LMS\obj\Debug\LMS.exe
+C:\Users\Thilaga\Documents\Visual Studio 2015\Projects\LMS\LMS\obj\Debug\LMS.pdb
+C:\Users\Thilaga\Documents\Visual Studio 2015\Projects\LMS\LMS\obj\Debug\LMS.Form4.resources
+C:\Users\Thilaga\Documents\Visual Studio 2015\Projects\LMS\LMS\obj\Debug\LMS.popup1.resources
+C:\Users\Thilaga\Documents\Visual Studio 2015\Projects\LMS\LMS\bin\Debug\Database1.mdf
+C:\Users\Thilaga\Documents\Visual Studio 2015\Projects\LMS\LMS\bin\Debug\Database1_log.ldf
+C:\Users\Thilaga\Documents\Visual Studio 2015\Projects\LMS\LMS\obj\Debug\LMS.Form5.resources
